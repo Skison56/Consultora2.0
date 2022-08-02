@@ -1,0 +1,23 @@
+#profile_picture {
+    width:  200px;
+    height: 200px;
+}
+
+table {
+    background-color: aquamarine;
+    border: 1px solid #000;
+}
+
+th, td {
+    border: 1px solid #000;
+}
+
+#aaa {
+    text-align: center;
+    font-size: 30px;
+}
+
+body{
+    background-color: beige;
+    border: 1px solid #000
+}
